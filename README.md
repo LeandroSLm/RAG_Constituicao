@@ -1,5 +1,7 @@
-##📚 Constituição AI - Chatbot Constitucional
+📚 Constituição AI - Chatbot Constitucional
+
 🤖 Sobre o Projeto
+
 Chatbot especializado na Constituição Federal brasileira, hospedado no WhatsApp, que utiliza RAG (Retrieval-Augmented Generation) para responder dúvidas jurídicas com base no texto constitucional.
 
 🛠️ Pré-requisitos
